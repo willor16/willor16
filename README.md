@@ -41,8 +41,8 @@
 
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/www.linkedin.com/in/wilmerchoxom" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/https://www.instagram.com/will_lor77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/wilmerchoxom" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <a href="https://www.instagram.com/will_lor77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
 </p>
 
 
